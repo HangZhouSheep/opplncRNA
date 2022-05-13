@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="BC75A2AF67F0B5CFBB34C16D1837EA8C107A2DC6">
+
+  <entryPoint>opp_lncRNA</entryPoint>
+
+  <name>opp_lncRNA</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2021b)</createdByMATLABRelease>
+
+  <GUID>28d29b84-2071-496a-a061-d4a72c3024d7</GUID>
+
+  <summary>Search Pathway of lncRNA-miRNA-mRNA</summary>
+
+  <author>
+    <name>张扬</name>
+    <contact>zhangyang@fudan.edu.cn</contact>
+    <organization>IBS of Fudan University</organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>47</numFiles>
+
+  <created>2022-05-01T06:41:59Z</created>
+
+  <appEntries>
+    <appFile>/MATLAB/Structure/Format/Table/AddSerial.m</appFile>
+    <appFile>/MATLAB/Structure/Table/Table2Cell.m</appFile>
+    <appFile>/MATLAB/Graph/GUI/UI_PutFile.m</appFile>
+    <appFile>/MATLAB/Graph/Figure/Network/PPI/CheckNetwork.m</appFile>
+    <appFile>/MATLAB/Structure/DataSet/OuterJoin.m</appFile>
+    <appFile>/MATLAB/Graph/GUI/UI_GetFile.m</appFile>
+    <appFile>/Main/OPP/OMICS/RNA/opp_lncRNA.mlapp</appFile>
+    <appFile>/MATLAB/Structure/Format/Is/IsSame.m</appFile>
+    <appFile>/Application/File/Excel/xlsFreezeLine.m</appFile>
+    <appFile>/Application/File/Excel/xlsWrite.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Convertion/file2fullfile.m</appFile>
+    <appFile>/Application/File/Excel/Down/xlsfont.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Is/isSameColNum.m</appFile>
+    <appFile>/Application/File/Excel/xlsRead.m</appFile>
+    <appFile>/MATLAB/Graph/Figure/Network/PPI/DisplayNetworks.m</appFile>
+    <appFile>/MATLAB/Graph/Figure/Network/PPI/SeparateNetwork.m</appFile>
+    <appFile>/MATLAB/Structure/Format/String/TrimString.m</appFile>
+    <appFile>/MATLAB/Graph/Figure/Column/BeesWarm/plotSpread/distinguishable_colors.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Convertion/CellNum2CellStr.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Table/JoinTables.m</appFile>
+    <appFile>/Application/Omics/RNA/ceNetwork/CorrelationPair.m</appFile>
+    <appFile>/MATLAB/Graph/Figure/Network/PPI/Chain2Network.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Is/IsExistVar.m</appFile>
+    <appFile>/Application/File/Text/Write/WriteTable.m</appFile>
+    <appFile>/Application/Omics/RNA/ceNetwork/FindCeNetwork.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Number/Convertion/num2repeat.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Convertion/CellStr2CellNum.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Table/FilterDatabase.m</appFile>
+    <appFile>/Application/File/Excel/xlswrite2.m</appFile>
+    <appFile>/MATLAB/Structure/Table/Cell2Table.m</appFile>
+    <appFile>/MATLAB/Math/Compute/Data/Correlation.m</appFile>
+    <appFile>/Application/Omics/RNA/ceNetwork/CorrelationChain.m</appFile>
+    <appFile>/MATLAB/Graph/GUI/UI_CheckPanel.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Number/IndexMatrix.m</appFile>
+    <appFile>/Application/File/Excel/DeleteEmptyExcelSheets.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Convertion/idx2color.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Is/IsEmpty.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Number/Convertion/num2CellStr.m</appFile>
+    <appFile>/MATLAB/Structure/Table/ReadTable.m</appFile>
+    <appFile>/Application/File/Excel/Down/xlsalign.m</appFile>
+    <appFile>/Application/File/File/CorrectFileName.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Is/IsNaN.m</appFile>
+    <appFile>/Application/File/Excel/xlsHeader.m</appFile>
+    <appFile>/MATLAB/Structure/DataSet/LeftJoin.m</appFile>
+    <appFile>/MATLAB/Structure/DataSet/InnerJoin.m</appFile>
+    <appFile>/MATLAB/Graph/Figure/Network/PPI/SplitNetwork.m</appFile>
+    <appFile>/MATLAB/Structure/Format/Group/UniqueRows.m</appFile>
+  </appEntries>
+
+</appProperties>
